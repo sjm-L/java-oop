@@ -32,4 +32,8 @@ bin/
 out/
 production/
 *.class
+.DS_Store*.iml
+.idea/
+out/
+*.class
 .DS_Store

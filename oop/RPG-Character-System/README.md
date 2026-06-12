@@ -21,6 +21,8 @@
 - super()는 부모 생성자를 실행하는 문법
 - private 필드는 직접 접근할 수 없어서 getter로 읽어야 함
 
+## 프로젝트 구조
+
 ```text
 java-oop-practice
 └─ oop
@@ -32,4 +34,3 @@ java-oop-practice
       │     ├─ Warrior.java
       │     └─ Mage.java
       └─ README.md
-```
