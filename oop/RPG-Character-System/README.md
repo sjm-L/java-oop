@@ -20,3 +20,14 @@
 - extends는 부모 클래스를 정하는 문법
 - super()는 부모 생성자를 실행하는 문법
 - private 필드는 직접 접근할 수 없어서 getter로 읽어야 함
+
+java-oop-practice
+├─ oop
+│  └─ RPG-Character-System
+│     ├─ src
+│     │  ├─ Main.java
+│     │  └─ character
+│     │     ├─ Character.java
+│     │     ├─ Warrior.java
+│     │     └─ Mage.java
+│     └─ README.md
